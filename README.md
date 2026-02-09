@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anoop Gangwar</h1>
+<h3 align="center">MERN Stack Developer | Next.js Learner | Exploring AWS ☁️</h3>
 
-<!--
-**anoopgangwar4/anoopgangwar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m working on **Full Stack MERN Applications**
+- 🌱 Currently learning **Next.js & AWS Cloud**
+- 💡 Interested in **AI-powered web apps & scalable systems**
+- ⚡ I enjoy building real-world projects and solving problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,aws,js,html,css,tailwind,git,github,vscode)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anoopgangwar4&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anoopgangwar4&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoopgangwar4&layout=compact&theme=tokyonight)
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Projects
+- AI Finance Platform  
+- AI Powered Code Reviewer  
+- AutoWiseAI (AI product price prediction & chatbot)
+
+### 🌐 Web Projects
+- MERN Full Stack Apps  
+- React + Tailwind Frontend Projects  
+
+### ☁️ Cloud
+- AWS ECS Node.js Deployment Practice  
+
+---
+
+## 📚 Currently Learning
+- Next.js (App Router & SSR)
+- AWS Cloud Fundamentals
+- Performance optimization in React
+
+---
+
+## 🌐 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-anoopgangwar4-black?style=for-the-badge&logo=github)](https://github.com/anoopgangwar4)
+
+---
+
+## ⚡ Fun Fact
+I like building projects that combine **AI + Web Development**.
