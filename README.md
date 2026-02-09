@@ -51,7 +51,8 @@
 ---
 
 ## 🌐 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-anoopgangwar4-black?style=for-the-badge&logo=github)](https://github.com/anoopgangwar4)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anoop%20Gangwar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anoop-gangwar-4b2b16253/),
+[![GitHub](https://img.shields.io/badge/GitHub-anoopgangwar4-black?style=for-the-badge&logo=github)](https://github.com/anoopgangwar4)]
 
 ---
 
