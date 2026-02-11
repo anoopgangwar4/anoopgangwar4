@@ -51,9 +51,11 @@
 ---
 
 ## 🌐 Connect With Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Anoop%20Gangwar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anoop-gangwar-4b2b16253/),
-![GitHub](https://img.shields.io/badge/GitHub-anoopgangwar4-black?style=for-the-badge&logo=github)](https://github.com/anoopgangwar4)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gangwarg27z-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/gangwarg27z)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anoop%20Gangwar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anoop-gangwar-4b2b16253/) 
+[![GitHub](https://img.shields.io/badge/GitHub-anoopgangwar4-black?style=for-the-badge&logo=github)](https://github.com/anoopgangwar4) 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gangwarg27z-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/gangwarg27z)
+
 
 
 ---
