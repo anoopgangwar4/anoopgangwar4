@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,flask,fastapi,firebase,aws,js,html,css,tailwind,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,flask,fastapi,aws,js,html,css,tailwind,git,github,vscode)
 
 ---
 
